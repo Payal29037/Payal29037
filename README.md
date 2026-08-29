@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<div align = "center">
-  <p>Visitor count</p>
-  <img src = "https://profile-counter.glitch.me/{Payal29037}/count.svg" alt="Visitor's Count" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bb3fdfa0-ec63-4d54-a8fa-6a8c8782a980" width="120" align="left"/>
+  <img src="https://komarev.com/ghpvc/?username=Payal29037&label=Visitor+Count&color=blueviolet&style=for-the-badge" alt="Visitor's Count" />
 </div>
 
 <!--
