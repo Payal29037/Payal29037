@@ -1,10 +1,12 @@
+<img width="620" height="305" alt="Image" src="https://github.com/user-attachments/assets/4eeddd98-81d4-49ed-9c9f-92c77e3d6fc6" />
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bb3fdfa0-ec63-4d54-a8fa-6a8c8782a980" width="120" align="left"/>
   <p>Visitor Count</p>
   <img src="https://count.getloli.com/get/@Payal29037?theme=moebooru" alt="Visitor Count" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ffe1&height=220&section=header&text=Payal%20Kushwaha&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20Student%20%7C%20Aspiring%20SDE%20%2F%20AI%20Engineer&descAlignY=55&descSize=18" />
+
 
 <!--
 **Payal29037/Payal29037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
